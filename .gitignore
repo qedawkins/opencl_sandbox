@@ -1,0 +1,5 @@
+staticMatmul/run
+staticMatmul/srun
+staticMatmul/*.spv
+staticMatmul/*.bc
+vectorAdd/run
